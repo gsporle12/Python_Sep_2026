@@ -7,10 +7,10 @@
 
 # Dictionary of planet info and distance to sun in GM.
 planets = {'Mercury': 57.91,
-                      'Venus': 108.2,
-                      'Earth': 149.597870,
-                      'Mars': 227.94
-           }
+           'Venus': 108.2,
+           'Earth': 149.597870,
+           'Mars': 227.94
+}
 
 # Iterate through keys in the planets dict and display planet info
 # using an ITERATOR for loop and str concatenation and escape chars. MEH!
