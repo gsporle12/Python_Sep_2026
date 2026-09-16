@@ -10,7 +10,7 @@ movies = { 'hema': ['finding nemo', 'dhurandhar', '83'],
            'donald': ['lotr', 'the hobbit', 'project hail mary']
 }
 # Open file handle for WRITING in TEXT mode
-fh_out = open(r"f:\labs\projects\Python_Sep_2026\movies.txt", mode="wt")
+fh_out = open(r"C:\labs\projects\Python_Sep_2026\movies.txt", mode="wt")
 
 # ITERATE through dict keys and write movie info to file.
 for name in movies.keys():
@@ -23,7 +23,7 @@ fh_out.close() # Flush buffers and close file handle
 print("-" * 60 )
 
 # Open file handle for READING in TEXT mode
-fh_in = open(r"f:\labs\projects\Python_Sep_2026\movies.txt", mode="rt")
+fh_in = open(r"C:\labs\projects\Python_Sep_2026\movies.txt", mode="rt")
 
 # text = fh_in.read() # Read ENTIRE file into str! Be Careful!
 # text = fh_in.read(30) # Read NEXT 30 chars into str!
