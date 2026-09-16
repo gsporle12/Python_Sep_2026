@@ -3,7 +3,7 @@
 # Version: 1.0
 # Description: Exercise 8
 
-def my_func(value, alist=None):
+def my_func(value, alist:None):
     """
     Appends value to the list of alist and then prints the list
     :param value: any value
