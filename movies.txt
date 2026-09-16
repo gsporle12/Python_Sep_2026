@@ -1,4 +1,0 @@
-hema ['finding nemo', 'dhurandhar', '83']
-kim ['hot fuzz', 'the princess bride', 'up']
-george ['project hail mary', 'iron man', 'Pirates of the caribbean']
-donald ['lotr', 'the hobbit', 'project hail mary']
