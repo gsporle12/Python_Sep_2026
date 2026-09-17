@@ -12,4 +12,4 @@ print(f"4 + 3 + 2 + 1 = {add(4, 3, 2, 1)}")
 
 # Alternatively we could use a lambda function (anonymous function)
 # # if the function is SIMPLE and not used anywhere else..
-# print(f"4 + 3 + 2 + 1 = {(lambda *args:sum(args))(4, 3, 2, 1)}")"""
+print(f"4 + 3 + 2 + 1 = {(lambda *args:sum(args))(4, 3, 2, 1)}")
