@@ -3,9 +3,6 @@
 # Version: 1.0
 # Description: This script will demo HOWTO GENERATE a COLLECTION
 # in a more memory efficient way using a GENERATOR function
-"""
-DocString
-"""
 
 def get_numbers():
     """ Return an ENTIRE collection of numbers """
