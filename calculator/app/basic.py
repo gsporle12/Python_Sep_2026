@@ -32,7 +32,10 @@ def mul(*args):
     return float(total)
 
 def div(x, z):
-    """ Return the quotient of x divided by z """
+    """ Return the quotient of x divided by z
+    >>> div(10, 2)
+    5.0
+    """
     return round(x/z, 3)
 
 def main():
