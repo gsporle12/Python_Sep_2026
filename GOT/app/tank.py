@@ -41,3 +41,20 @@ class Tank:
     def take_damage(self, damage):
         self._health -= damage
         return None
+
+    # Some SPECIAL Methods
+    # Example of OPERATOR overloading
+    def __add__(self, other):
+        return self._health + other._health
+
+    def __del__(self):
+        print(f"Boom..Boom..Boom")
+        return None
+
+    # Example of a getter and a setter
+    def get_health(self):
+        return self._health
+
+    def set_health(self, new_health):
+        self._health = new_health
+        return None
