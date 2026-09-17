@@ -25,7 +25,7 @@ def main():
     return None
 
 #Namespace Trick
-if __name__ == "__main__"
+if __name__ == "__main__":
     main()
     sys.exit(0)
 
