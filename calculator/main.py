@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# Author: DCameron
+# Author: GSporle
 # Version: 1.0
 # Description: This is an ULTRA realistic Calculator App with Basic and Advanced functions
 """

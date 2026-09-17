@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# Author: DCameron
+# Author: Gsporle
 # Version: 1.0
 # Description: This module is a collection of basic
 # calculator functions
