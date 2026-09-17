@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# Author: DCameron
+# Author: Gsporle
 # Version: 1.0
 # Description: This script will demo HOWTO GENERATE a COLLECTION
 # in a more memory efficient way using a GENERATOR function
